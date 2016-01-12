@@ -1,9 +1,16 @@
 body{
+	outline-style:solid;
+	outline-color:black;
+	margin-left:2em;
+	margin-right:3em;
 	background-color: rgba(249, 249, 249, 0.51);
 	font-family:'helvetica neue';
 	margin-left: 3em;
-	margin-right: 35em;
+	margin-right: 35.2em;
 	/*spacing: ;>*/
+}
+p{
+	color:gray;
 }
 .author{margin-bottom:5em;
 
