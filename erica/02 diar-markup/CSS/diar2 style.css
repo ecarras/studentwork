@@ -1,0 +1,13 @@
+body{
+	background-color: rgba(249, 249, 249, 0.51);
+	font-family:'helvetica neue';
+	/*spacing: ;>*/
+}
+h4{
+	padding-bottom: 3em; 
+}
+section {
+	background-color: gray;
+	padding-bottom: 3em;
+
+}
